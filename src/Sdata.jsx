@@ -11,7 +11,7 @@ const Sdata=[
         sname:"A Netflix Original",
         imgscr:"https://cdn.europosters.eu/image/750/posters/stranger-things-one-sheet-season-2-i67844.jpg",
         link:"https://www.youtube.com/watch?v=b9EkMc79ZSU",
-        title:"Stranger Things"
+        title:"Stranger Things part 2"
     },
     {
         id:3,
